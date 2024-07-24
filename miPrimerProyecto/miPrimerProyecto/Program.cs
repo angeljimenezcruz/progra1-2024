@@ -6,20 +6,18 @@ using System.Threading.Tasks;
 
 namespace miPrimerProyecto
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
-            //ejercicio de suma de dos numeros introdusidos por el usuario
-            Console.Write("num1: ");
-            double  num1 = double .Parse ( Console.ReadLine());
-
-            Console.Write("num2: ");
-           double num2 = double.Parse(Console.ReadLine());
-
-            double  respuesta = num1 + num2;
-            Console.WriteLine("la suma de {0}+{1}={2}", num1, num2, respuesta);
-
+            int[] serie = new int[] { 5, 4, 6, 8, 9 };
+            int suma = 0;
+            foreach (int num in serie)
+            {
+                suma += num;
+            }
+            decimal prom = suma / serie.Length;
+            Console.WriteLine("la suma es:{0}, el promedio {1}", suma,prom);
             //pausa
             Console.ReadLine();
         }
