@@ -5,3 +5,10 @@ C:\Users\Estudiante\source\repos\progra1-2024\miPrimerProyecto\miPrimerProyecto\
 C:\Users\Estudiante\source\repos\progra1-2024\miPrimerProyecto\miPrimerProyecto\bin\Debug\miPrimerProyecto.pdb
 C:\Users\Estudiante\source\repos\progra1-2024\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.exe
 C:\Users\Estudiante\source\repos\progra1-2024\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.pdb
+C:\Users\Estudiante\Source\Repos\progra1-20241\miPrimerProyecto\miPrimerProyecto\bin\Debug\miPrimerProyecto.exe.config
+C:\Users\Estudiante\Source\Repos\progra1-20241\miPrimerProyecto\miPrimerProyecto\bin\Debug\miPrimerProyecto.exe
+C:\Users\Estudiante\Source\Repos\progra1-20241\miPrimerProyecto\miPrimerProyecto\bin\Debug\miPrimerProyecto.pdb
+C:\Users\Estudiante\Source\Repos\progra1-20241\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Source\Repos\progra1-20241\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Source\Repos\progra1-20241\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.exe
+C:\Users\Estudiante\Source\Repos\progra1-20241\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.pdb

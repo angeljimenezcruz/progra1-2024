@@ -10,15 +10,23 @@ namespace miPrimerProyecto
     {
         static void Main(string[] args)
         {
-            int[] serie = new int[] { 5, 4, 6, 8, 9 };
-            int suma = 0;
-            foreach (int num in serie)
+            //obtener la secuencia fibonacci
+            int a = 0, b = 1, c = 1;
+            /*
+            0+1=1
+            1+0=1
+            1+1=2
+            2+1=3
+            3+2=5
+            */
+            while (c < 100)
             {
-                suma += num;
+                Console.WriteLine("{0}+{1}={2}", a, b, c);
+                b = a;
+                a = c;
+                c = a + b;
+
             }
-            decimal prom = suma / serie.Length;
-            Console.WriteLine("la suma es:{0}, el promedio {1}", suma,prom);
-            //pausa
             Console.ReadLine();
         }
     }
